@@ -1,1 +1,1 @@
-![Dataset](https://d3i71xaburhd42.cloudfront.net/3e3227c8e9f44593d2499f4d1302575c77977b2e/2-Figure1-1.png)
+![Dataset](https://raw.githubusercontent.com/Microsoft/FERPlus/master/FER+vsFER.png)
