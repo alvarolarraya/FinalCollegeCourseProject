@@ -1,2 +1,2 @@
-![Dataset](https://raw.githubusercontent.com/Microsoft/FERPlus/master/FER+vsFER.png)
+![Dataset](data_sample.png)
 ![Data_barplot](data_barplot.png)
