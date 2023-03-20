@@ -1,2 +1,2 @@
-![Dataset](data_sample.png)
-![Data_barplot](data_barplot.png)
+![Dataset](images/data_sample.png)
+![Data_barplot](images/data_barplot.png)
